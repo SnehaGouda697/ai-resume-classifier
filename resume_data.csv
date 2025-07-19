@@ -1,0 +1,7 @@
+filename,text,label
+shortlisted1.txt,"Experienced Data Analyst with 3 years in Python, SQL, and Tableau. Built dashboards for business insights and optimized data pipelines.",shortlist
+shortlisted2.txt,"Machine Learning Engineer skilled in TensorFlow, scikit-learn, and deploying models on AWS. Developed fraud detection system in production.",shortlist
+shortlisted3.txt,"Software Developer with strong grasp of DSA, C++, and backend APIs. Interned at a startup and contributed to REST API development using Flask.",shortlist
+rejected1.txt,"Fresher graduate looking for any opportunity. Familiar with MS Word and email communication. No prior internship or technical experience.",reject
+rejected2.txt,"Seeking job in any department. Willing to learn. I have not worked with any programming languages or done any certifications.",reject
+rejected3.txt,"Graduate in Arts with interest in HR roles. Knowledge of communication and presentation skills. No technical background.",reject
